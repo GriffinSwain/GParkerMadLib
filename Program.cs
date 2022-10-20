@@ -1,7 +1,7 @@
 ﻿
 
 //Griffin Parker
-//September 11, 2022
+//October 18, 2022
 //Minichallenge #5 - Madlibs
 //This program takes the user's inouts and adds them to one of three stories. An attempt at humor was made, and hopefully succeeded. 
 //Peer reviewed by

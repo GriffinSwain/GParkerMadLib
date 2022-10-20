@@ -5,6 +5,8 @@
 //Minichallenge #5 - Madlibs
 //This program takes the user's inputs and adds them to one of three stories. An attempt at humor was made, and hopefully succeeded. 
 //Peer reviewed by Caroline Hana
+//I think this is the most creative and cleanest MadLib I have seen so far. It looks very very good, I like how after each question the text cleared so it wasn't confusing. 
+//I also like how you added different story lines so it doesn't get repetative. Very creative, and well done!
 
 int repeat = 1;
 int words = 1;

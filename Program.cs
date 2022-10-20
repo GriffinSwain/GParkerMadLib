@@ -3,8 +3,8 @@
 //Griffin Parker
 //October 18, 2022
 //Minichallenge #5 - Madlibs
-//This program takes the user's inouts and adds them to one of three stories. An attempt at humor was made, and hopefully succeeded. 
-//Peer reviewed by
+//This program takes the user's inputs and adds them to one of three stories. An attempt at humor was made, and hopefully succeeded. 
+//Peer reviewed by Caroline Hana
 
 int repeat = 1;
 int words = 1;

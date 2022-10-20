@@ -13,3 +13,18 @@ C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerMadLib\o
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.pdb
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.genruntimeconfig.cache
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\GParkerMadLib\obj\Debug\net6.0\ref\GParkerMadLib.dll
+C:\Users\carol\GParkerMadLib\bin\Debug\net6.0\GParkerMadLib.exe
+C:\Users\carol\GParkerMadLib\bin\Debug\net6.0\GParkerMadLib.deps.json
+C:\Users\carol\GParkerMadLib\bin\Debug\net6.0\GParkerMadLib.runtimeconfig.json
+C:\Users\carol\GParkerMadLib\bin\Debug\net6.0\GParkerMadLib.dll
+C:\Users\carol\GParkerMadLib\bin\Debug\net6.0\GParkerMadLib.pdb
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.csproj.AssemblyReference.cache
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.AssemblyInfoInputs.cache
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.AssemblyInfo.cs
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.csproj.CoreCompileInputs.cache
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.dll
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\refint\GParkerMadLib.dll
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.pdb
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\GParkerMadLib.genruntimeconfig.cache
+C:\Users\carol\GParkerMadLib\obj\Debug\net6.0\ref\GParkerMadLib.dll
